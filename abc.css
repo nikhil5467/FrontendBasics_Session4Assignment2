@@ -1,0 +1,24 @@
+#first {
+    width: 246px;
+    height: 184px;
+    background: darkblue;
+    overflow: hidden;
+    margin : 0 auto;
+}
+
+#first #second{
+    position: relative;
+    width: 72%;
+    height: 69%;
+    margin: auto;
+    margin-top: 25%;
+    background: lightblue;
+    margin: 25px;
+    padding-left: 24px;
+    padding-bottom: 5px;
+}
+#firsth6{
+font-weight: normal;
+    padding-top: 29px;
+    font-size : 11px;
+    }
